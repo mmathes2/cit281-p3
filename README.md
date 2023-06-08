@@ -1,4 +1,7 @@
 # cit281-p3
+![image](https://github.com/mmathes2/cit281-p3/assets/134009490/e6cd59b7-59f3-443b-bf5e-afe6ce90d134)
+
+Do you know how to count your coins? I sure hope this code does! 
 ## create project files 
 p3-module.js, p3-server.js, index.html, package.json, .gitignore 
 ## initialize git repo 
